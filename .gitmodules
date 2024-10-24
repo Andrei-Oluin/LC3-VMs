@@ -1,0 +1,3 @@
+[submodule "example-lc3-vm"]
+	path = example-lc3-vm
+	url = https://github.com/justinmeiners/lc3-vm.git
